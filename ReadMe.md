@@ -71,13 +71,6 @@ Three regression models were implemented and evaluated:
 - **Machine Learning** (Scikit-learn, XGBoost)  
 - **Jupyter Notebook**  
 ---
-├── Sample_ML_Submission_Template.ipynb # Main Jupyter notebook
-├── credits_.csv # Credits dataset
-├── titles_.csv # Titles dataset
-├── README.md # Project documentation
-└── (optional) saved_model.pkl # Trained XGBoost model
-
----
 
 ## How to Run  
 1. Clone the repository.  
@@ -88,5 +81,4 @@ Three regression models were implemented and evaluated:
 Contact
 Contributor: Mohd Osama
 Feel free to reach out for questions or collaboration opportunities!
-
-## 📁 Project Structure  
+ 
