@@ -78,7 +78,7 @@ Three regression models were implemented and evaluated:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ---
--Contact
--Contributor: Mohd Osama
--Feel free to reach out for questions or collaboration opportunities!
+Contact
+Contributor: Mohd Osama
+Feel free to reach out for questions or collaboration opportunities!
  
