@@ -49,7 +49,7 @@ Three regression models were implemented and evaluated:
 
 | Model | MSE | MAE | R² |
 |--------|-----|-----|-----|
-| Linear Regression | 1.81 | 0.99 | 0.59 |
+| Linear Regression | 4.09 | 1.60 | 0.07 |
 | Histogram-based Gradient Boosting | 3.15 | 1.45 | 0.28 |
 | **XGBoost (Final Model)** | **1.81** | **0.99** | **0.59** |
 
