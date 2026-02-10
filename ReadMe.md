@@ -84,7 +84,7 @@ Three regression models were implemented and evaluated:
 
 Feel free to reach out for questions or collaboration opportunities!  
 
-- **Email:** your.email@example.com  
+- **Email:** mohdosama6392@gmail.com  
 
 
  
